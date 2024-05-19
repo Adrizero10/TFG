@@ -1,4 +1,4 @@
-from distnaciaCadenas import hamming_distance, levenshtein_distance, damerau_levenshtein, jaccard_distance, cosine_distance, jaro_similarity, dice_similarity
+from distnaciaCadenas import hamming_distance, levenshtein_distance, damerau_levenshtein, jaccard_distance, cosine_distance, jaro_similarity
 
 def url_phising(url):
 
