@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from phising import url_phising
+from Django.tfg_urls.home.phising import url_phising
 
 def main():
     # Crear la ventana principal
